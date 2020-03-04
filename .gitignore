@@ -1,0 +1,9 @@
+venv/
+dataset/
+.vscode/
+*.pyc
+.Rproj.*
+.Rhistory
+.RData
+.Rproj.user
+dataset.zip

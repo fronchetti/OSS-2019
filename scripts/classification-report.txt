@@ -1,0 +1,27 @@
+# Classification Report:
+             precision    recall  f1-score   support
+
+          0       0.44      0.19      0.27        21
+          1       0.75      0.95      0.84        97
+          2       0.33      0.06      0.10        17
+
+avg / total       0.65      0.72      0.66       135
+
+# Feature Importances:
+('stars', 0.17538233751646026)
+('time_for_merge', 0.15350666579725586)
+('languages', 0.1278307959807849)
+('age', 0.10270799999256379)
+('integrators', 0.09952823746748342)
+('main_language', 0.09466532539513367)
+('domain', 0.0708210416755829)
+('has_contributing', 0.03963071496050766)
+('has_wiki', 0.030841742004377483)
+('has_issue_template', 0.02603271717818772)
+('owner_type', 0.02520096885794516)
+('has_license', 0.023668082989851076)
+('has_pull_request_template', 0.01832737977675894)
+('has_code_of_conduct', 0.011855990407107199))
+
+# Accuracy Score:
+0.7185185185185186

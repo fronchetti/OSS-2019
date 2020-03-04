@@ -1,0 +1,2 @@
+This folder contains scripts that were used during the study of newcomers growth patterns, but that were not used in the final version of the paper.
+They might be useful for a future work, since they contain some interesting analysis.

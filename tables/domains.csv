@@ -1,0 +1,451 @@
+name,domain
+antirez/redis,System software
+firehol/netdata,System software
+git/git,Software tools
+SamyPesse/How-to-Make-a-Computer-Operating-System,Documentation
+Bilibili/ijkplayer,Non-web libraries and frameworks
+wg/wrk,Software tools
+ggreer/the_silver_searcher,Software tools
+kripken/emscripten,Software tools
+php/php-src,System software
+julycoding/The-Art-Of-Programming-By-July,Documentation
+grpc/grpc,Non-web libraries and frameworks
+bang590/JSPatch,Non-web libraries and frameworks
+vim/vim,Software tools
+stedolan/jq,Software tools
+irungentoo/toxcore,Software tools
+FFmpeg/FFmpeg,Application software
+DrKLO/Telegram,Application software
+tmux/tmux,Application software
+libuv/libuv,System software
+torch/torch7,Non-web libraries and frameworks
+twitter/twemproxy,Software tools
+jp9000/obs-studio,Software tools
+arduino/Arduino,Software tools
+vurtun/nuklear,Software tools
+h2o/h2o,System software
+robertdavidgraham/masscan,Software tools
+memcached/memcached,System software
+swoole/swoole-src,Non-web libraries and frameworks
+antirez/disque,Non-web libraries and frameworks
+Microsoft/vscode,Software tools
+ionic-team/ionic,Non-web libraries and frameworks
+angular/angular,Web libraries and frameworks
+Microsoft/TypeScript,Software tools
+ant-design/ant-design,Web libraries and frameworks
+railsware/upterm,Software tools
+angular-ui/ui-router,Web libraries and frameworks
+angular/angular-cli,Software tools
+DefinitelyTyped/DefinitelyTyped,Documentation
+NativeScript/NativeScript,Non-web libraries and frameworks
+angular/material2,Web libraries and frameworks
+graphcool/chromeless,Web libraries and frameworks
+sahat/satellizer,Web libraries and frameworks
+ReactiveX/rxjs,Web libraries and frameworks
+akveo/ng2-admin,Web libraries and frameworks
+cyclejs/cyclejs,Web libraries and frameworks
+palantir/blueprint,Web libraries and frameworks
+witheve/Eve,Software tools
+google/google-api-nodejs-client,Non-web libraries and frameworks
+BabylonJS/Babylon.js,Web libraries and frameworks
+tensorflow/playground,Web libraries and frameworks
+Microsoft/reactxp,Non-web libraries and frameworks
+mgechev/angular-seed,Software tools
+winjs/winjs,Web libraries and frameworks
+jquery/esprima,Web libraries and frameworks
+postgraphql/postgraphql,Software tools
+apollographql/apollo-client,Non-web libraries and frameworks
+theintern/intern,Non-web libraries and frameworks
+ng-bootstrap/ng-bootstrap,Non-web libraries and frameworks
+mozilla/shumway,Web libraries and frameworks
+ReactiveX/RxJava,System software
+elastic/elasticsearch,Software tools
+square/retrofit,Non-web libraries and frameworks
+iluwatar/java-design-patterns,Documentation
+square/okhttp,Web libraries and frameworks
+google/guava,Non-web libraries and frameworks
+JakeWharton/butterknife,Non-web libraries and frameworks
+PhilJay/MPAndroidChart,Non-web libraries and frameworks
+bumptech/glide,Web libraries and frameworks
+JetBrains/kotlin,System software
+square/leakcanary,Software tools
+spring-projects/spring-framework,Web libraries and frameworks
+greenrobot/EventBus,Non-web libraries and frameworks
+nostra13/Android-Universal-Image-Loader,Non-web libraries and frameworks
+spring-projects/spring-boot,Software tools
+airbnb/lottie-android,Software tools
+zxing/zxing,Non-web libraries and frameworks
+google/iosched,Application software
+square/picasso,Non-web libraries and frameworks
+ReactiveX/RxAndroid,Non-web libraries and frameworks
+facebook/fresco,Non-web libraries and frameworks
+Blankj/AndroidUtilCode,Non-web libraries and frameworks
+libgdx/libgdx,Non-web libraries and frameworks
+chrisbanes/PhotoView,Non-web libraries and frameworks
+netty/netty,Software tools
+afollestad/material-dialogs,Web libraries and frameworks
+Netflix/Hystrix,Software tools
+alibaba/dubbo,Non-web libraries and frameworks
+jfeinstein10/SlidingMenu,Non-web libraries and frameworks
+alibaba/fastjson,Non-web libraries and frameworks
+tonsky/FiraCode,Software tools
+LightTable/LightTable,Software tools
+clojure/clojurescript,Software tools
+omcljs/om,Non-web libraries and frameworks
+technomancy/leiningen,Software tools
+overtone/overtone,Non-web libraries and frameworks
+frankiesardo/icepick,Non-web libraries and frameworks
+riemann/riemann,Software tools
+weavejester/compojure,Web libraries and frameworks
+functional-koans/clojure-koans,Documentation
+swannodette/mori,Web libraries and frameworks
+reagent-project/reagent,Web libraries and frameworks
+alda-lang/alda,Software tools
+Day8/re-frame,Web libraries and frameworks
+tonsky/datascript,Software tools
+jepsen-io/jepsen,Web libraries and frameworks
+magomimmo/modern-cljs,Documentation
+ring-clojure/ring,Web libraries and frameworks
+bhauman/lein-figwheel,Software tools
+quil/quil,Web libraries and frameworks
+incanter/incanter,Software tools
+ztellman/aleph,Non-web libraries and frameworks
+clojure-cookbook/clojure-cookbook,Documentation
+Engelberg/instaparse,Non-web libraries and frameworks
+pedestal/pedestal,Non-web libraries and frameworks
+plumatic/schema,Web libraries and frameworks
+weavejester/hiccup,Web libraries and frameworks
+onyx-platform/onyx,Non-web libraries and frameworks
+cognitect/transit-format,Non-web libraries and frameworks
+nathanmarz/specter,Non-web libraries and frameworks
+apache/spark,Software tools
+apache/incubator-predictionio,System software
+playframework/playframework,Web libraries and frameworks
+shadowsocks/shadowsocks-android,Non-web libraries and frameworks
+scala/scala,System software
+akka/akka,System software
+gitbucket/gitbucket,Application software
+twitter/finagle,Software tools
+lhartikk/ArnoldC,System software
+airbnb/aerosolve,Non-web libraries and frameworks
+yahoo/kafka-manager,System software
+mesos/chronos,Application software
+twitter/snowflake,System software
+snowplow/snowplow,Web libraries and frameworks
+mesosphere/marathon,Software tools
+rtyley/bfg-repo-cleaner,Software tools
+ornicar/lila,Application software
+fpinscala/fpinscala,Documentation
+scalaz/scalaz,Non-web libraries and frameworks
+sbt/sbt,Software tools
+gatling/gatling,Non-web libraries and frameworks
+twitter-archive/flockdb,System software
+scala-js/scala-js,Software tools
+scala-native/scala-native,System software
+twitter/diffy,Web libraries and frameworks
+twitter/scalding,Non-web libraries and frameworks
+twitter-archive/kestrel,Software tools
+linkerd/linkerd,Software tools
+spray/spray,Web libraries and frameworks
+scalatra/scalatra,Web libraries and frameworks
+vinta/awesome-python,Documentation
+jakubroztocil/httpie,Application software
+nvbn/thefuck,Software tools
+pallets/flask,Web libraries and frameworks
+rg3/youtube-dl,Application software
+django/django,Web libraries and frameworks
+requests/requests,Web libraries and frameworks
+josephmisiti/awesome-machine-learning,Documentation
+ansible/ansible,Software tools
+scrapy/scrapy,Non-web libraries and frameworks
+minimaxir/big-list-of-naughty-strings,Documentation
+scikit-learn/scikit-learn,Non-web libraries and frameworks
+tensorflow/models,Non-web libraries and frameworks
+shadowsocks/shadowsocks,Software tools
+certbot/certbot,Non-web libraries and frameworks
+fchollet/keras,Non-web libraries and frameworks
+donnemartin/system-design-primer,Web libraries and frameworks
+XX-net/XX-Net,Non-web libraries and frameworks
+apache/incubator-superset,Application software
+isocpp/CppCoreGuidelines,Documentation
+Valloric/YouCompleteMe,Software tools
+soimort/you-get,Application software
+tornadoweb/tornado,Non-web libraries and frameworks
+reddit/reddit,Application software
+getsentry/sentry,Software tools
+songrotek/Deep-Learning-Papers-Reading-Roadmap,Documentation
+python/cpython,System software
+faif/python-patterns,Documentation
+ipython/ipython,Non-web libraries and frameworks
+drduh/macOS-Security-and-Privacy-Guide,Documentation
+freeCodeCamp/freeCodeCamp,System software
+twbs/bootstrap,Web libraries and frameworks
+facebook/react,Web libraries and frameworks
+d3/d3,Web libraries and frameworks
+vuejs/vue,Web libraries and frameworks
+airbnb/javascript,Documentation
+angular/angular.js,Web libraries and frameworks
+facebook/react-native,Web libraries and frameworks
+jquery/jquery,Web libraries and frameworks
+nodejs/node,System software
+h5bp/html5-boilerplate,Web libraries and frameworks
+meteor/meteor,Web libraries and frameworks
+Semantic-Org/Semantic-UI,Web libraries and frameworks
+hakimel/reveal.js,Web libraries and frameworks
+socketio/socket.io,Non-web libraries and frameworks
+mrdoob/three.js,Web libraries and frameworks
+facebookincubator/create-react-app,Non-web libraries and frameworks
+reactjs/redux,Web libraries and frameworks
+expressjs/express,Web libraries and frameworks
+moment/moment,Non-web libraries and frameworks
+impress/impress.js,Web libraries and frameworks
+chartjs/Chart.js,Web libraries and frameworks
+resume/resume.github.com,Application software
+webpack/webpack,Web libraries and frameworks
+NARKOZ/hacker-scripts,Application software
+Dogfalo/materialize,Web libraries and frameworks
+callemall/material-ui,Web libraries and frameworks
+adobe/brackets,Application software
+blueimp/jQuery-File-Upload,Web libraries and frameworks
+gulpjs/gulp,Software tools
+so-fancy/diff-so-fancy,Software tools
+sitaramc/gitolite,Software tools
+brendangregg/FlameGraph,Web libraries and frameworks
+Jack000/Expose,Documentation
+major/MySQLTuner-perl,Software tools
+AlDanial/cloc,Non-web libraries and frameworks
+x0rz/EQGRP,Documentation
+sarabander/sicp-pdf,Documentation
+tobie/ua-parser,Non-web libraries and frameworks
+kraih/mojo,Web libraries and frameworks
+openresty/nginx-tutorials,Documentation
+sullo/nikto,Web libraries and frameworks
+thoughtbot/rcm,Non-web libraries and frameworks
+duckduckgo/duckduckgo,System software
+beyondgrep/ack2,System software
+theory/sqitch,System software
+dalibo/pgbadger,Software tools
+CNSRE/ABTestingGateway,System software
+jessfraz/dotfiles,System software
+munin-monitoring/munin,Application software
+SpiderLabs/owasp-modsecurity-crs,Application software
+GUI/lua-resty-auto-ssl,Web libraries and frameworks
+rsnapshot/rsnapshot,Software tools
+k4rthik/git-cal,Software tools
+munin-monitoring/contrib,Web libraries and frameworks
+PenturaLabs/Linux_Exploit_Suggester,Application software
+fletcher/MultiMarkdown,Application software
+creaktive/rainbarf,Application software
+lulzlabs/AirChat,Application software
+prey/prey-bash-client,Application software
+atom/atom,Application software
+jashkenas/coffeescript,System software
+basecamp/trix,Web libraries and frameworks
+dropbox/zxcvbn,Web libraries and frameworks
+philc/vimium,Application software
+FelisCatus/SwitchyOmega,Software tools
+morrisjs/morris.js,Web libraries and frameworks
+michaelvillar/dynamics.js,Web libraries and frameworks
+yhatt/marp,Software tools
+baconjs/bacon.js,Non-web libraries and frameworks
+codecombat/codecombat,Application software
+ichord/At.js,Web libraries and frameworks
+gka/chroma.js,Web libraries and frameworks
+sharelatex/sharelatex,Application software
+riccardoscalco/textures,Web libraries and frameworks
+turbolinks/turbolinks,Web libraries and frameworks
+jariz/vibrant.js,Web libraries and frameworks
+sorich87/bootstrap-tour,Documentation
+stripe/jquery.payment,Web libraries and frameworks
+turbolinks/turbolinks-classic,Web libraries and frameworks
+github/hubot-scripts,Software tools
+basecamp/pow,Software tools
+NarrativeScience/Log.io,Web libraries and frameworks
+JoelBesada/activate-power-mode,Software tools
+devongovett/pdfkit,Non-web libraries and frameworks
+danielgtaylor/aglio,Web libraries and frameworks
+jnordberg/wintersmith,Application software
+dmauro/Keypress,Web libraries and frameworks
+sparanoid/chinese-copywriting-guidelines,Documentation
+chaplinjs/chaplin,Web libraries and frameworks
+AFNetworking/AFNetworking,Software tools
+rs/SDWebImage,Web libraries and frameworks
+BradLarson/GPUImage,Non-web libraries and frameworks
+SnapKit/Masonry,Non-web libraries and frameworks
+jdg/MBProgressHUD,Non-web libraries and frameworks
+ccgus/fmdb,System software
+realm/realm-cocoa,System software
+CoderMJLee/MJRefresh,Non-web libraries and frameworks
+jessesquires/JSQMessagesViewController,Non-web libraries and frameworks
+Mantle/Mantle,Non-web libraries and frameworks
+ibireme/YYKit,Non-web libraries and frameworks
+magicalpanda/MagicalRecord,Software tools
+airbnb/lottie-ios,Non-web libraries and frameworks
+RestKit/RestKit,Web libraries and frameworks
+SVProgressHUD/SVProgressHUD,Non-web libraries and frameworks
+alcatraz/Alcatraz,Software tools
+ViccAlexander/Chameleon,Non-web libraries and frameworks
+hackiftekhar/IQKeyboardManager,Non-web libraries and frameworks
+nicklockwood/iCarousel,Non-web libraries and frameworks
+CocoaLumberjack/CocoaLumberjack,Non-web libraries and frameworks
+marcuswestin/WebViewJavascriptBridge,Non-web libraries and frameworks
+dzenbot/DZNEmptyDataSet,Non-web libraries and frameworks
+robbiehanson/CocoaAsyncSocket,Non-web libraries and frameworks
+kevinzhow/PNChart,Non-web libraries and frameworks
+onevcat/VVDocumenter-Xcode,Software tools
+Flipboard/FLEX,Software tools
+matryer/bitbar,Software tools
+eczarny/spectacle,Application software
+facebook/Shimmer,Non-web libraries and frameworks
+forkingdog/UITableView-FDTemplateLayoutCell,Non-web libraries and frameworks
+begriffs/postgrest,Web libraries and frameworks
+jgm/pandoc,Non-web libraries and frameworks
+koalaman/shellcheck,Software tools
+elm-lang/elm-compiler,Software tools
+purescript/purescript,Software tools
+facebook/Haxl,Non-web libraries and frameworks
+commercialhaskell/stack,Software tools
+idris-lang/Idris-dev,System software
+sdiehl/write-you-a-haskell,Documentation
+yesodweb/yesod,Web libraries and frameworks
+ghcjs/ghcjs,Software tools
+jameysharp/corrode,Software tools
+ghc/ghc,Software tools
+jaspervdj/hakyll,Software tools
+gibiansky/IHaskell,System software
+typelead/eta,Software tools
+jgm/gitit,Documentation
+lamdu/lamdu,Software tools
+mikeizbicki/HLearn,Non-web libraries and frameworks
+valderman/haste-compiler,Software tools
+unisonweb/unison,Software tools
+faylang/fay,Software tools
+ekmett/lens,Documentation
+yi-editor/yi,Software tools
+scotty-web/scotty,Web libraries and frameworks
+carp-lang/Carp,Software tools
+sdiehl/wiwinwlh,Documentation
+olivierverdier/zsh-git-prompt,Software tools
+HuwCampbell/grenade,Non-web libraries and frameworks
+facebookincubator/duckling,Non-web libraries and frameworks
+moby/moby,Non-web libraries and frameworks
+golang/go,System software
+kubernetes/kubernetes,Software tools
+getlantern/lantern,Application software
+avelino/awesome-go,Documentation
+gogits/gogs,Software tools
+gohugoio/hugo,Web libraries and frameworks
+astaxie/build-web-application-with-golang,Documentation
+grafana/grafana,Web libraries and frameworks
+syncthing/syncthing,Software tools
+coreos/etcd,System software
+mholt/caddy,System software
+astaxie/beego,Web libraries and frameworks
+gin-gonic/gin,Web libraries and frameworks
+influxdata/influxdb,System software
+prometheus/prometheus,Software tools
+github/hub,Software tools
+inconshreveable/ngrok,Software tools
+cockroachdb/cockroach,System software
+drone/drone,Software tools
+cayleygraph/cayley,System software
+nsqio/nsq,System software
+hashicorp/consul,Software tools
+junegunn/fzf,Software tools
+go-martini/martini,Web libraries and frameworks
+containous/traefik,Software tools
+pingcap/tidb,System software
+hashicorp/terraform,Software tools
+revel/revel,Web libraries and frameworks
+joewalnes/websocketd,Software tools
+erlang/otp,System software
+lk-geimfari/awesomo,Documentation
+ninenines/cowboy,System software
+apache/couchdb,System software
+processone/ejabberd,Non-web libraries and frameworks
+rabbitmq/rabbitmq-server,Non-web libraries and frameworks
+emqtt/emqttd,Non-web libraries and frameworks
+ChicagoBoss/ChicagoBoss,Non-web libraries and frameworks
+happi/theBeamBook,Documentation
+mochi/mochiweb,Non-web libraries and frameworks
+rvirding/lfe,Software tools
+discoproject/disco,Non-web libraries and frameworks
+webmachine/webmachine,Software tools
+processone/tsung,Web libraries and frameworks
+basho/rebar,Software tools
+synrc/n2o,System software
+leo-project/leofs,System software
+klacke/yaws,System software
+erlio/vernemq,Non-web libraries and frameworks
+biokoda/actordb,System software
+devinus/poolboy,Non-web libraries and frameworks
+rebar/rebar,Software tools
+erlang-lager/lager,Non-web libraries and frameworks
+basho/riak_core,Non-web libraries and frameworks
+nitrogen/nitrogen,Web libraries and frameworks
+alpaca-lang/alpaca,Software tools
+heroku/logplex,System software
+esl/MongooseIM,Application software
+tarcieri/reia,Software tools
+uwiger/gproc,Software tools
+rails/rails,Web libraries and frameworks
+jekyll/jekyll,Application software
+Homebrew/legacy-homebrew,System software
+toddmotto/public-apis,Documentation
+discourse/discourse,Application software
+gitlabhq/gitlabhq,Software tools
+bayandin/awesome-awesomeness,Documentation
+fastlane/fastlane,Software tools
+plataformatec/devise,Non-web libraries and frameworks
+huginn/huginn,Web libraries and frameworks
+mitchellh/vagrant,Software tools
+jondot/awesome-react-native,Documentation
+Thibaut/devdocs,Documentation
+ruby/ruby,System software
+twbs/bootstrap-sass,Web libraries and frameworks
+kilimchoi/engineering-blogs,Documentation
+caskroom/homebrew-cask,Software tools
+diaspora/diaspora,Application software
+sass/sass,Software tools
+tootsuite/mastodon,System software
+capistrano/capistrano,Software tools
+CocoaPods/CocoaPods,Software tools
+sinatra/sinatra,Software tools
+imathis/octopress,Application software
+rapid7/metasploit-framework,Software tools
+spree/spree,Web libraries and frameworks
+thoughtbot/paperclip,Non-web libraries and frameworks
+Homebrew/brew,System software
+thoughtbot/bourbon,Software tools
+ruby-grape/grape,Web libraries and frameworks
+laravel/laravel,Web libraries and frameworks
+symfony/symfony,Web libraries and frameworks
+bcit-ci/CodeIgniter,Web libraries and frameworks
+domnikl/DesignPatternsPHP,Documentation
+fzaninotto/Faker,Web libraries and frameworks
+yiisoft/yii2,Web libraries and frameworks
+composer/composer,Software tools
+guzzle/guzzle,Web libraries and frameworks
+WordPress/WordPress,Application software
+PHPMailer/PHPMailer,Non-web libraries and frameworks
+PHPOffice/PHPExcel,Non-web libraries and frameworks
+phacility/phabricator,Documentation
+roots/sage,Web libraries and frameworks
+phalcon/cphalcon,Web libraries and frameworks
+slimphp/Slim,Web libraries and frameworks
+phanan/koel,Application software
+laravel/framework,Web libraries and frameworks
+piwik/piwik,Software tools
+getgrav/grav,Application software
+cakephp/cakephp,Web libraries and frameworks
+serbanghita/Mobile-Detect,Web libraries and frameworks
+danielmiessler/SecLists,System software
+CachetHQ/Cachet,Software tools
+Seldaek/monolog,Non-web libraries and frameworks
+dingo/api,Web libraries and frameworks
+sebastianbergmann/phpunit,Non-web libraries and frameworks
+octobercms/october,Application software
+twostairs/paperwork,Application software
+briannesbitt/Carbon,Web libraries and frameworks
+barryvdh/laravel-debugbar,Non-web libraries and frameworks
+torvalds/linux,System software

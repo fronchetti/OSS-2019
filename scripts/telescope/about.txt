@@ -1,0 +1,10 @@
+Telescope is a set of classes used to easily extract information from the GitHub API.
+
+The Collector class is responsible for handling the requests. The Repository class is responsible
+for extracting information from the repositories. The search class is responsible for extracting
+information from the search system used on GitHub (We used it to sort projects by languages and stars).
+
+If you felt interested in Telescope, we are developing it in this repository:
+github.com/openuniverseorg/telescope
+
+
